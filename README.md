@@ -8,7 +8,7 @@
 
 ### 👋 Bem-vindo(a) 
 
-Seja muito bem-vindo(a) ao repositório de um dos meus primeiros projeto na área de desenvolvimento web, realizado no curso de _HTML5 e CSS3_ do _CursoemVídeo_! Este projeto representa um **marco inicial** na minha jornada de aprendizado em desenvolvimento web.
+Seja muito bem-vindo(a) ao repositório de um dos meus primeiros projeto na área de desenvolvimento web, realizado no curso de _HTML5_ e _CSS3_ do _CursoemVídeo_! Este projeto representa um **marco inicial** na minha jornada de aprendizado em desenvolvimento web.
 
 </br>
 
