@@ -66,9 +66,9 @@ Sinta-se à vontade para **explorar** o código-fonte, **contribuir** e **compar
 
 # English Version
 
-#Cordel Project (CursoemVídeo)
+# Cordel Project (CursoemVídeo)
 
-###👋 Welcome
+### 👋 Welcome
 
 Welcome to the repository of one of my first projects in web development, carried out in the _HTML5 and CSS3_ course from _CursoemVídeo!_ This project represents an **initial milestone** in my learning journey in web development.
 
