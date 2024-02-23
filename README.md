@@ -1,6 +1,6 @@
 ### [<img align="right" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1280px-Flag_of_the_United_Kingdom.svg.png" />](#english-version)
 
-<br />
+</br>
 
 ---
 
@@ -10,7 +10,7 @@
 
 Seja muito bem-vindo(a) ao repositório de um dos meus primeiros projeto na área de desenvolvimento web, realizado no curso de _HTML5 e CSS3_ do _CursoemVídeo_! Este projeto representa um **marco inicial** na minha jornada de aprendizado em desenvolvimento web.
 
-<br />
+</br>
 
 ## Sobre o Projeto
 
@@ -26,7 +26,7 @@ Este site, contendo o cordel chamado _"Cordel Moderno"_, por _Milton Duarte_, é
 
 **- CSS3:** Aplicação de diversas técnicas de posicionamento de imagem aprendidas ao longo do módulo, e estilização responsiva para garantir uma apresentação agradável em diversos dispositivos.
 
-<br />
+</br>
 
 
 ## Objetivos Alcançados
@@ -35,13 +35,13 @@ Este site, contendo o cordel chamado _"Cordel Moderno"_, por _Milton Duarte_, é
 
 **- Responsividade:** Me atentei a responsividade do site, permitindo uma experiência consistente em diferentes tamanhos de tela.
 
-<br />
+</br>
 
 ## Conclusão
 
 Sinta-se à vontade para **explorar** o código-fonte, **contribuir** e **compartilhar** suas experiências. Agradeço por fazer parte deste momento inicial e por apoiar o meu desenvolvimento como desenvolvedora web.
-<br />
-<br />
+</br>
+</br>
 
 **Obrigada por visitar! 📌**
 
@@ -60,9 +60,9 @@ Sinta-se à vontade para **explorar** o código-fonte, **contribuir** e **compar
 
 ---
 
-<br />
-<br />
-<br />
+</br>
+</br>
+</br>
 
 # English Version
 
@@ -72,11 +72,15 @@ Sinta-se à vontade para **explorar** o código-fonte, **contribuir** e **compar
 
 Welcome to the repository of one of my first projects in web development, carried out in the _HTML5 and CSS3_ course from _CursoemVídeo!_ This project represents an **initial milestone** in my learning journey in web development.
 
+</br>
+
 ## About the Project
 
 This website, containing the cordel called _"Cordel Moderno"_, by _Milton Duarte_, is the application of some knowledge learned in the third module of the course.
 
 -This project is part of an educational initiative where the content, structure, and style were defined by _Professor Gustavo Guanabara_ as part of the _HTML5 and CSS3_ course. As a student, my role was to follow the proposed guidelines, applying the concepts and techniques learned during the classes.
+
+</br>
 
 ## Technologies Used
 
@@ -84,17 +88,21 @@ This website, containing the cordel called _"Cordel Moderno"_, by _Milton Duarte
 
 **- CSS3:** Application of various image positioning techniques learned throughout the module, and responsive styling to ensure a pleasant presentation on various devices.
 
+</br>
+
 ## Achievements
 
 **- Application of learned concepts:** I used all HTML and CSS concepts seen throughout the third module of the course to create a project that demonstrates my learning.
 
 **- Responsiveness:** I paid attention to the responsiveness of the site, allowing for a consistent experience on different screen sizes.
 
+</br>
+
 ## Conclusion
 
 Feel free to **explore** the source code, **contribute** and **share** your experiences. I appreciate your participation at this initial moment and your support for my development as a web developer.
-<br />
-<br />
+</br>
+</br>
 
 **Thank you for visiting! 📌**
 
