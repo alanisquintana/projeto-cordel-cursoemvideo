@@ -6,9 +6,7 @@
 
 # Projeto Cordel (CursoemVídeo)
 
-### 👋 Bem-vindo(a) 
-
-Seja muito bem-vindo(a) ao repositório de um dos meus primeiros projeto na área de desenvolvimento web, realizado no curso de _HTML5_ e _CSS3_ do _CursoemVídeo_! Este projeto representa um **marco inicial** na minha jornada de aprendizado em desenvolvimento web.
+Esse é o repositório de um dos meus primeiros projetos na área de desenvolvimento web, realizado no curso de _HTML5_ e _CSS3_ do _CursoemVídeo_.
 
 </br>
 
@@ -37,16 +35,6 @@ Este site, contendo o cordel chamado _"Cordel Moderno"_, por _Milton Duarte_, é
 
 </br>
 
-## Conclusão
-
-Sinta-se à vontade para **explorar** o código-fonte, **contribuir** e **compartilhar** suas experiências. Agradeço por fazer parte deste momento inicial e por apoiar o meu desenvolvimento como desenvolvedora web.
-</br>
-</br>
-
-**Obrigada por visitar! 📌**
-
-</br>
-
 ## Contato
 
 <div align="center"> 
@@ -56,12 +44,6 @@ Sinta-se à vontade para **explorar** o código-fonte, **contribuir** e **compar
 </div>
 
 </br>
-
-### Sinta-se livre para deixar uma ⭐ nesse repositório!
-
----
-
-</br>
 </br>
 </br>
 
@@ -69,9 +51,7 @@ Sinta-se à vontade para **explorar** o código-fonte, **contribuir** e **compar
 
 # Cordel Project (CursoemVídeo)
 
-### 👋 Welcome
-
-Welcome to the repository of one of my first projects in web development, carried out in the _HTML5 and CSS3_ course from _CursoemVídeo!_ This project represents an **initial milestone** in my learning journey in web development.
+This is the repository of one of my first projects in web development, carried out in the _HTML5 and CSS3_ course from _CursoemVídeo_.
 
 </br>
 
@@ -99,16 +79,6 @@ This website, containing the cordel called _"Cordel Moderno"_, by _Milton Duarte
 
 </br>
 
-## Conclusion
-
-Feel free to **explore** the source code, **contribute** and **share** your experiences. I appreciate your participation at this initial moment and your support for my development as a web developer.
-</br>
-</br>
-
-**Thank you for visiting! 📌**
-
-</br>
-
 ## Contact
 
 <div align="center"> 
@@ -118,5 +88,3 @@ Feel free to **explore** the source code, **contribute** and **share** your expe
 </div>
 
 </br>
-
-### Feel free to give a ⭐ to this repository!
